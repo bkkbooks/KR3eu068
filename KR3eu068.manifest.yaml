@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eu068/v1
 canonical_location: https://kanripo.org/bkk/KR3eu068/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 青囊瑣探
   identifiers:
@@ -16,13 +16,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eu068_000.yaml, hash: 'sha256:c572f73a6a939ab7270266b1efec3b440d7d6ab7b73e3673656cdce66c4a3e29'}
-  - {seq: 1, filename: KR3eu068_001.yaml, hash: 'sha256:3ad6671631ec1a366707d684e0924d5c7f7e0c2801738941cc2dfa7932af42e4'}
-  - {seq: 3, filename: KR3eu068_003.yaml, hash: 'sha256:22d25bd618a8f34ec56a295ed512753b802aeb87bd86c398a9c4c14ffd62549f'}
+  - {seq: 0, filename: KR3eu068_000.yaml, hash: 'sha256:6afa9533a12314b436b15feb889e116cc0d5425ca99e1a8344b483d4454fb9b3'}
+  - {seq: 1, filename: KR3eu068_001.yaml, hash: 'sha256:8469ef9c7276ea1645e78c1cb6753bead14dbaa3a95ca39615123d714636794f'}
+  - {seq: 3, filename: KR3eu068_003.yaml, hash: 'sha256:c07a148a1f0a55c0de2721c0716f50fe76289bd909377d9500098d6855d55485'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eu068_000.markers.yaml, hash: 'sha256:5082135a9ef653d164a9f9a6de95f02a1ac7da93cab405f07a8e3e992c96d540'}
-  - {seq: 1, role: markers, filename: assets/KR3eu068_001.markers.yaml, hash: 'sha256:67941742449024829cfbfd9f25c4d53d594f3d82e370414164cd0caf10a67cbf'}
-  - {seq: 3, role: markers, filename: assets/KR3eu068_003.markers.yaml, hash: 'sha256:45aa2922e9d1bb64c34c5a3b1988c46e1274ef7988a4498f5070da6c3106c5e5'}
+  - {seq: 0, role: markers, filename: assets/KR3eu068_000.markers.yaml, hash: 'sha256:4ca5396a70544cf9f5f01474e76590163ba63ccc277d382d770a8ff808a9ba98'}
+  - {seq: 1, role: markers, filename: assets/KR3eu068_001.markers.yaml, hash: 'sha256:d7c81d4f849dbd93b440d53eed71252813d5eec19976ecbae27db5da6fff2188'}
+  - {seq: 3, role: markers, filename: assets/KR3eu068_003.markers.yaml, hash: 'sha256:278d50840bd2fc2c3d43cf79f24e8f2c0e57070c495b85032cbd51ab23336ebf'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1234,4 +1234,7 @@ table_of_contents:
   label: 牙齒疼痛
   type: section
   level: 2
-hash: sha256:809e7c44c543cdbd7b0e285fa8560a826d03de5515a4c1dd600abc2c645b2088
+hash: sha256:356bd64ab05d3c560bb952fe3be720f79f7c953227a57ad3b63530eb16f461fe
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
