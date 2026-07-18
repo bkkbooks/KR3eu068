@@ -21,8 +21,8 @@ assets:
   - {seq: 3, filename: KR3eu068_003.yaml, hash: 'sha256:c07a148a1f0a55c0de2721c0716f50fe76289bd909377d9500098d6855d55485'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eu068_000.markers.yaml, hash: 'sha256:4ca5396a70544cf9f5f01474e76590163ba63ccc277d382d770a8ff808a9ba98'}
-  - {seq: 1, role: markers, filename: assets/KR3eu068_001.markers.yaml, hash: 'sha256:d7c81d4f849dbd93b440d53eed71252813d5eec19976ecbae27db5da6fff2188'}
-  - {seq: 3, role: markers, filename: assets/KR3eu068_003.markers.yaml, hash: 'sha256:278d50840bd2fc2c3d43cf79f24e8f2c0e57070c495b85032cbd51ab23336ebf'}
+  - {seq: 1, role: markers, filename: assets/KR3eu068_001.markers.yaml, hash: 'sha256:069890b6aeae362b226716e0c979a6fcd8f22a5080a4009e61eca8c89fed8f51'}
+  - {seq: 3, role: markers, filename: assets/KR3eu068_003.markers.yaml, hash: 'sha256:58a910c89e8351170589d406376de9de940e08bb0abaad7d430e594dea198068'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1234,7 +1234,7 @@ table_of_contents:
   label: 牙齒疼痛
   type: section
   level: 2
-hash: sha256:356bd64ab05d3c560bb952fe3be720f79f7c953227a57ad3b63530eb16f461fe
+hash: sha256:60df196c6c63bee0a44bf3beae2f3a93243154eec3ed5e126e5bac9b3bda66d6
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
